@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "test-pubblicazione-rem-trastevere",
+    "titolo": "Test pubblicazione — REM Trastevere",
+    "categoria": "miscelazione",
+    "data": "2026-03-08",
+    "immagine": "/assets/images/news/test-pubblicazione-rem-trastevere.jpg",
+    "sommario": "Articolo di test per verificare il flusso di pubblicazione su GitHub.",
+    "corpo": "Questo è un articolo di test generato dalla pipeline editoriale AI.",
+    "pubblicato": true,
+    "tags": [
+      "test",
+      "miscelazione"
+    ],
+    "meta_description": "Test articolo REM Trastevere pipeline editoriale AI."
+  }
+]
